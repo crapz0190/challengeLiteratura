@@ -1,6 +1,6 @@
 # Literatura - Challenge Literatura 📚
 
-¡Bienvenido a **Literalura**! Una aplicación de consola desarrollada en Java utilizando **Spring Boot** para la gestión y consulta de libros y autores. El proyecto consume la API de [Gutendex](https://gutendex.com/) para obtener datos reales de obras literarias y almacenarlos en una base de datos relacional.
+¡Bienvenido a **Literatura**! Una aplicación de consola desarrollada en Java utilizando **Spring Boot** para la gestión y consulta de libros y autores. El proyecto consume la API de [Gutendex](https://gutendex.com/) para obtener datos reales de obras literarias y almacenarlos en una base de datos relacional.
 
 ## 🚀 Funcionalidades
 
